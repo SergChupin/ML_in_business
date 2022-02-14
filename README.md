@@ -20,9 +20,9 @@ API: flask
 
 ### Клонируем репозиторий и создаем образ
 ```
-$ git clone https://github.com/SergChupin/ML_in_business/tree/lesson_9_-_course_project.git
+$ git clone https://github.com/SergChupin/ML_in_business.git
 $ cd GB_docker_flask_example
-$ docker build -t SergChupin/ML_in_business/tree/lesson_9_-_course_project .
+$ docker build -t SergChupin/ML_in_business .
 ```
 
 ### Запускаем контейнер
